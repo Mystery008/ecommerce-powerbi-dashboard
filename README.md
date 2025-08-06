@@ -24,5 +24,3 @@
 ## Dataset
 - Source: Olist Brazil E-Commerce (via Kaggle)
 
-- Source: Olist Brazil E-Commerce (via Kaggle)
-

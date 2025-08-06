@@ -19,7 +19,6 @@
 
 ## Files Included
 
-- `ecommerce_dashboard.pbix` – Power BI file
 - `dashboard_screenshot.png` – Dashboard preview
 
 ## Dataset

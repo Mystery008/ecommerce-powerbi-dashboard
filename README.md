@@ -1,7 +1,7 @@
 # E-Commerce Analytics Dashboard – Power BI
 
 - This project showcases a Power BI dashboard built using the Olist Brazilian e-commerce dataset.
-- It analyzes over 17K customer orders to uncover sales performance, order delays, top-selling product categories, and payment method trends.
+- It analyzes over total customer orders to uncover sales performance, order delays, top-selling product categories, and payment method trends.
 
 ## Tools & Skills
 
